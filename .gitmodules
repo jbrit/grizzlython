@@ -1,0 +1,12 @@
+[submodule "paypeer-dex"]
+	path = paypeer-dex
+	url = https://github.com/jbrit/paypeer-dex
+[submodule "paypeer-mobile"]
+	path = paypeer-mobile
+	url = https://github.com/jbrit/paypeer-mobile
+[submodule "paypeer-sol"]
+	path = paypeer-sol
+	url = https://github.com/jbrit/paypeer-sol
+[submodule "ngnc-sol"]
+	path = ngnc-sol
+	url = https://github.com/jbrit/ngnc-sol
